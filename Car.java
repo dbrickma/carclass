@@ -60,7 +60,7 @@ public class Car extends Vehicle {
         if (on == false) {
             System.out.println("Engine off");
         } else if (gear == 1) {
-            System.out.println("0 mph");
+            System.out.println("0-5 mph");
 
 
         } else if (gear == 2) {

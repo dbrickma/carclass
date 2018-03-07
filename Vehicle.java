@@ -8,9 +8,6 @@ public class Vehicle {
     private int doors;
     private int wheels;
     private int terrain;
-    //private double speed;
-
-
 
 
 
@@ -19,12 +16,11 @@ public class Vehicle {
         this.engine = engine;
         this.gas = gas;
         this.diesel = diesel;
-        //string for this fuel
-        //motor is something vehicles should have
+
         this.doors = doors;
         this.wheels = wheels;
         this.terrain = terrain;
-        //this.speed = speed;
+
 
 
 
